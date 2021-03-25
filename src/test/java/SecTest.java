@@ -24,6 +24,6 @@ public class SecTest {
         Assert.assertTrue(actualRes.contains("Mонитор"), "errors");
 
 
-        //driver.quit();
+        driver.quit();
     }
 }
